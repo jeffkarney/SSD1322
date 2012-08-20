@@ -6,7 +6,7 @@ Notes
 
 * Currently exists as Arduino sketch
 * Currently to use 8-bit mode
-* Depends on digitalWriteFast library
+* Depends on digitalWriteFast library http://code.google.com/p/digitalwritefast/
 
 TODO
 ------

@@ -10,7 +10,7 @@ Notes
 
 TODO
 ------
-*Convert to library
-*Add SPI mode examples
-*Add more graphic funcitons
-*Add hardware examples
+* Convert to library
+* Add SPI mode examples
+* Add more graphic funcitons
+* Add hardware examples
